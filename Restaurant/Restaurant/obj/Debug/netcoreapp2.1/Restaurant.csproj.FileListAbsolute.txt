@@ -1,0 +1,6 @@
+F:\My Projects\.NetCore\Restaurant\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+F:\My Projects\.NetCore\Restaurant\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.RazorAssemblyInfo.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.RazorAssemblyInfo.cs

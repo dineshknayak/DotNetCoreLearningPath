@@ -1,0 +1,12 @@
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\obj\Debug\netcoreapp2.1\Restaurant.DataAccess.csprojAssemblyReference.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\obj\Debug\netcoreapp2.1\Restaurant.DataAccess.AssemblyInfoInputs.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\obj\Debug\netcoreapp2.1\Restaurant.DataAccess.AssemblyInfo.cs
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\obj\Debug\netcoreapp2.1\Restaurant.DataAccess.csproj.CoreCompileInputs.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\bin\Debug\netcoreapp2.1\Restaurant.DataAccess.deps.json
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\bin\Debug\netcoreapp2.1\Restaurant.DataAccess.dll
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\bin\Debug\netcoreapp2.1\Restaurant.DataAccess.pdb
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\bin\Debug\netcoreapp2.1\Restaurant.Model.dll
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\bin\Debug\netcoreapp2.1\Restaurant.Model.pdb
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\obj\Debug\netcoreapp2.1\Restaurant.DataAccess.csproj.CopyComplete
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\obj\Debug\netcoreapp2.1\Restaurant.DataAccess.dll
+F:\My Projects\.NetCore\Restaurant\Restaurant.DataAccess\obj\Debug\netcoreapp2.1\Restaurant.DataAccess.pdb

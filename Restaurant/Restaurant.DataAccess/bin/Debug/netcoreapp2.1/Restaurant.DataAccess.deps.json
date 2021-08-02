@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Restaurant.DataAccess/1.0.0": {
+        "dependencies": {
+          "Restaurant.Model": "1.0.0"
+        },
+        "runtime": {
+          "Restaurant.DataAccess.dll": {}
+        }
+      },
+      "Restaurant.Model/1.0.0": {
+        "runtime": {
+          "Restaurant.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurant.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restaurant.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

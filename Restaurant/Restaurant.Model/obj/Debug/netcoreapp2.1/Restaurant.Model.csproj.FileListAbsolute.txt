@@ -1,0 +1,9 @@
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\bin\Debug\netcoreapp2.1\Restaurant.Model.deps.json
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\bin\Debug\netcoreapp2.1\Restaurant.Model.dll
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\bin\Debug\netcoreapp2.1\Restaurant.Model.pdb
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\obj\Debug\netcoreapp2.1\Restaurant.Model.csprojAssemblyReference.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\obj\Debug\netcoreapp2.1\Restaurant.Model.AssemblyInfoInputs.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\obj\Debug\netcoreapp2.1\Restaurant.Model.AssemblyInfo.cs
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\obj\Debug\netcoreapp2.1\Restaurant.Model.csproj.CoreCompileInputs.cache
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\obj\Debug\netcoreapp2.1\Restaurant.Model.dll
+F:\My Projects\.NetCore\Restaurant\Restaurant.Model\obj\Debug\netcoreapp2.1\Restaurant.Model.pdb
